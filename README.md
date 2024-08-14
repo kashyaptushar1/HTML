@@ -26,7 +26,8 @@ Welcome to the HTML Learning Guide! This repository is designed to help you lear
 15. [Responsive Web Design](#15-responsive-web-design)
 
 16. [HTML Best Practices](#16-html-best-practices)
-17. [Connect with Me](#17Connect-with-Me)
+17. [Connect with Me](#connect-with-me)
+
 
 
 ---
@@ -406,6 +407,7 @@ Following best practices ensures that your code is clean, maintainable, and effi
 
 ---
 ## 17. Connect with Me
+
 If you have any questions, suggestions, or just want to connect, feel free to reach out!
 
 - [GitHub](https://github.com/kashyaptushar1)
