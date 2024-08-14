@@ -33,7 +33,12 @@ Welcome to the HTML Learning Guide! This repository is designed to help you lear
 
 ## 1. Introduction to HTML
 
-HTML (HyperText Markup Language) is the standard language for creating web pages. It structures content on the web and tells the browser how to display text, images, and other elements.
+HTML (HyperText Markup Language) is the standard language used to create and design web pages. HTML consists of a series of elements that describe the structure and content of a webpage. These elements are represented by tags, which tell the browser how to display the content.
+
+Key Concepts:
+HyperText: Refers to the way HTML allows users to navigate between web pages by clicking on hyperlinks.
+Markup Language: A language that uses tags to annotate text and provide instructions for displaying the content.
+HTML is not a programming language; it’s a markup language. It defines the structure of a webpage, but it doesn’t control how the webpage behaves. For dynamic behavior, other technologies like JavaScript are used.
 
 **Example:**
 
