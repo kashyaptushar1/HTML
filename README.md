@@ -4,7 +4,7 @@
 
 # HTML Learning Guide
 
-Welcome to the HTML Learning Guide! This repository is designed to help you learn HTML from the basics to advanced topics. Each topic is explained with both theory and code examples to provide hands-on experience and deeper understanding.
+Hello 🖐 B.sc(c.s), Welcome to the HTML Learning Guide! This repository is designed to help you learn HTML from the basics to advanced topics. Each topic is explained with both theory and code examples to provide hands-on experience and deeper understanding.
 
 ## Table of Contents
 
