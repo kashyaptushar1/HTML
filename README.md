@@ -22,10 +22,11 @@ Welcome to the HTML Learning Guide! This repository is designed to help you lear
 12. [HTML Attributes](#12-html-attributes)
 13. [HTML Entities](#13-html-entities)
 
-14. [Accessibility](#15-accessibility)
-15. [Responsive Web Design](#16-responsive-web-design)
+14. [Accessibility](#14-accessibility)
+15. [Responsive Web Design](#15-responsive-web-design)
 
-16. [HTML Best Practices](#18-html-best-practices)
+16. [HTML Best Practices](#16-html-best-practices)
+17. [ Connect with Me](#17Connect_with_Me)
 
 
 ---
@@ -404,7 +405,15 @@ Following best practices ensures that your code is clean, maintainable, and effi
 - **Validate HTML**: Use tools like the W3C Validator to check your HTML for errors.
 
 ---
+## 17. Connect with Me
+If you have any questions, suggestions, or just want to connect, feel free to reach out!
 
+- [GitHub](https://github.com/kashyaptushar1)
+- [Instagram](https://instagram.com/i_am_tushar2709)
+- [LeetCode](https://leetcode.com/u/Pro_tushar/)
+---
+
+Feel free to modify and extend this README as per your needs!
 
 ---
 
